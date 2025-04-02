@@ -4,8 +4,22 @@ public class App {
 
         System.out.println(VALOR_PI);
 
-        boolean variavel = true;
+        boolean variavel = false;
         variavel = !variavel;
         System.out.println(variavel);
+
+
+        int a = 10;
+        int b = 10;
+
+        String resultado  = a==b ? "Verdadeiro" : "falso";
+
+        System.out.println(resultado);
+
+
+        String nomeUm = "Elailson";
+        String nomeDois = "Elailson";
+
+        System.out.println(nomeUm.equals(nomeDois));
     }
 }
