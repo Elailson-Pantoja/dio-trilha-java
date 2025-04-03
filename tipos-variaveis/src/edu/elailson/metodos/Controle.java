@@ -1,4 +1,5 @@
-package edu.elailson.sintaxes;
+package edu.elailson.metodos;
+
 public class Controle {
     public static void main(String[] args) {
         SmartTv smartTv = new SmartTv();

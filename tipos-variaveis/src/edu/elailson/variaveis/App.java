@@ -1,4 +1,4 @@
-package edu.elailson.sintaxes;
+package edu.elailson.variaveis;
 
 public class App {
     public static void main(String[] args) throws Exception {

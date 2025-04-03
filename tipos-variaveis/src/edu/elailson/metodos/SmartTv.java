@@ -1,4 +1,5 @@
-package edu.elailson.sintaxes;
+package edu.elailson.metodos;
+
 public class SmartTv {
     boolean ligada = false;
     int canal = 1;
