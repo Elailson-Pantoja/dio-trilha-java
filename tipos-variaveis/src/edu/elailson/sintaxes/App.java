@@ -1,3 +1,5 @@
+package edu.elailson.sintaxes;
+
 public class App {
     public static void main(String[] args) throws Exception {
         final double  VALOR_PI = 3.14;

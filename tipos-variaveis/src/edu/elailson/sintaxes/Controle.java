@@ -1,3 +1,4 @@
+package edu.elailson.sintaxes;
 public class Controle {
     public static void main(String[] args) {
         SmartTv smartTv = new SmartTv();
