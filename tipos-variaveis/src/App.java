@@ -21,5 +21,19 @@ public class App {
         String nomeDois = "Elailson";
 
         System.out.println(nomeUm.equals(nomeDois));
+
+
+        boolean condicao1 = true;
+        boolean condicao2 = true;
+
+        if (condicao1 && condicao2){
+            System.out.println("as duas condições são veridadeiras");
+        }
+        if ( condicao1 || condicao2){
+            System.out.println( "Uma das condições é verdaddeira");
+        }
+        else{
+            System.out.println("fim");
+        }
     }
 }
