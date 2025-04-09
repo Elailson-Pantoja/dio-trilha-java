@@ -7,10 +7,11 @@ public class CaixaEletronico {
 
         if(valorSaque < saldo){
             double saldoAtual = saldo - valorSaque;
-            System.out.println("Saldo Anterior: R$ " + saldo + "\nValor do saque: R$" + valorSaque + "\nSando Atual: R$ " + saldoAtual);
+            System.out.println("Saldo Anterior: R$ " + saldo + "\nValor do saque: R$ " + valorSaque + "\nSando Atual: R$ " + saldoAtual);
         }
         else{
             System.out.println("Saldo Insuficiente!");
         }
     }
 }
+ 
